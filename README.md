@@ -11,7 +11,7 @@
         <h4>I even have my very own art page on instagram where I upload my art work. At first I did arts just as a hobby and soon I saw it as an opportunity to earn money.</h4>
         <h4>My art work is mostly digital and is made on an IPad.</h4>
         <h4>What you see on your screen is one of my artworks:</h4>
-        <img src="Kun Faya Kun.jpg"width=300>
+        <img src="https://github.com/billu2002/Assignment-3/blob/a09548725d062573118cc58a14d594fd090b2247/Kun%20Faya%20Kun.jpg"width=300>
         <h4></h4>
         <h4>You can find more of my artwork at my page @billu.draws</h4>
         <h4>Click the instagram link below: </h4>
